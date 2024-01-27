@@ -50,7 +50,7 @@ $(document).ready(function () {
 });
 
 /* Drift */
-
+/*
 "use strict";
 
 !function() {
@@ -75,3 +75,4 @@ $(document).ready(function () {
 }();
 drift.SNIPPET_VERSION = '0.3.1';
 drift.load('72ep2zgwvd5d');
+*/
